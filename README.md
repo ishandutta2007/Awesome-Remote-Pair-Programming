@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Remote-Pair-Programming/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Pair-Programming?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Remote-Pair-Programming/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Pair-Programming?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Pair-Programming/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Remote-Pair-Programming?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Pair-Programming/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Remote-Pair-Programming?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,71 +72,71 @@ The following curated open-source repositories provide self-hosted remote deskto
 
 All repositories are sorted by **GitHub Star Count** in descending order:
 
-1. **[RustDesk](https://github.com/rustdesk/rustdesk)** [![GitHub stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)  
+1. **[RustDesk](https://github.com/rustdesk/rustdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)  
    *An open-source remote desktop application designed for self-hosting as a full-control alternative to TeamViewer and Tuple. Features ultra-low-latency display streaming, full remote keyboard/mouse injection, end-to-end encryption, and multi-monitor developer workflows.*  
    `Language: Rust` • `License: AGPL-3.0 / GPL-3.0`
 
-2. **[Zed](https://github.com/zed-industries/zed)** [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
+2. **[Zed](https://github.com/zed-industries/zed)** [![GitHub_Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
    *High-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Features first-class remote pair programming built directly into the core editor: real-time collaborative buffer synchronization via CRDTs, shared follow-mode navigation, low-latency voice channels, and shared workspace tabs.*  
    `Language: Rust` • `License: GPL-3.0 / Apache-2.0`
 
-3. **[code-server](https://github.com/coder/code-server)** [![GitHub stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers)  
+3. **[code-server](https://github.com/coder/code-server)** [![GitHub_Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers)  
    *Run Visual Studio Code on any remote Linux machine or cloud VM and access it securely through any modern web browser. Enables teams to pair on identical remote environments, share ports and terminals, and eliminate local machine configuration drift.*  
    `Language: TypeScript` • `License: MIT`
 
-4. **[Yjs](https://github.com/yjs/yjs)** [![GitHub stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers)  
+4. **[Yjs](https://github.com/yjs/yjs)** [![GitHub_Stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers)  
    *High-performance Conflict-free Replicated Data Type (CRDT) engine engineered specifically for real-time collaborative text editing. Powers multiplayer Monaco, CodeMirror, and Quill bindings for custom pair programming and mob programming architectures.*  
    `Language: JavaScript` • `License: MIT`
 
-5. **[Etherpad Lite](https://github.com/ether/etherpad-lite)** [![GitHub stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)  
+5. **[Etherpad Lite](https://github.com/ether/etherpad-lite)** [![GitHub_Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)  
    *The pioneer of real-time collaborative document editing. Lightweight, self-hostable operational-transformation (OT) engine with authorship color coding, live chat, and an extensive plugin registry used for live scratchpad coding and collaborative reviews.*  
    `Language: JavaScript` • `License: Apache-2.0`
 
-6. **[Screego](https://github.com/screego/server)** [![GitHub stars](https://img.shields.io/github/stars/screego/server?style=social&color=white)](https://github.com/screego/server/stargazers)  
+6. **[Screego](https://github.com/screego/server)** [![GitHub_Stars](https://img.shields.io/github/stars/screego/server?style=social&color=white)](https://github.com/screego/server/stargazers)  
    *Screen sharing application purpose-built for developers. Offers low-latency WebRTC peer-to-peer screen streaming, multi-user cursor awareness, built-in room management, integrated voice chat, and simple Docker-based self-hosting.*  
    `Language: Go / TypeScript` • `License: GPL-3.0`
 
-7. **[Automerge](https://github.com/automerge/automerge)** [![GitHub stars](https://img.shields.io/github/stars/automerge/automerge?style=social&color=white)](https://github.com/automerge/automerge/stargazers)  
+7. **[Automerge](https://github.com/automerge/automerge)** [![GitHub_Stars](https://img.shields.io/github/stars/automerge/automerge?style=social&color=white)](https://github.com/automerge/automerge/stargazers)  
    *A JSON-like CRDT library for building local-first, peer-to-peer collaborative software. Powers offline-first and distributed multiplayer coding tools with mathematical guarantees of eventual consistency and conflict resolution.*  
    `Language: Rust / JavaScript` • `License: MIT`
 
-8. **[tmate](https://github.com/tmate-io/tmate)** [![GitHub stars](https://img.shields.io/github/stars/tmate-io/tmate?style=social&color=white)](https://github.com/tmate-io/tmate/stargazers)  
+8. **[tmate](https://github.com/tmate-io/tmate)** [![GitHub_Stars](https://img.shields.io/github/stars/tmate-io/tmate?style=social&color=white)](https://github.com/tmate-io/tmate/stargazers)  
    *Instant terminal sharing utility based on tmux. Spawns an SSH session and generates an encrypted token link that teammates can use to attach to a live terminal session via SSH or HTML5 web console for pairing and remote incident triage.*  
    `Language: C` • `License: ISC`
 
-9. **[wemux](https://github.com/zolrath/wemux)** [![GitHub stars](https://img.shields.io/github/stars/zolrath/wemux?style=social&color=white)](https://github.com/zolrath/wemux/stargazers)  
+9. **[wemux](https://github.com/zolrath/wemux)** [![GitHub_Stars](https://img.shields.io/github/stars/zolrath/wemux?style=social&color=white)](https://github.com/zolrath/wemux/stargazers)  
    *Multi-user tmux wrapper enhancing terminal-based pair programming. Supports mirror mode (everyone shares cursor), pair mode (independent cursors on same window), and rogue mode (independent navigation across windows) for flexible team pairing.*  
    `Language: Shell` • `License: MIT`
 
-10. **[Atom Teletype](https://github.com/atom/teletype)** [![GitHub stars](https://img.shields.io/github/stars/atom/teletype?style=social&color=white)](https://github.com/atom/teletype/stargazers)  
+10. **[Atom Teletype](https://github.com/atom/teletype)** [![GitHub_Stars](https://img.shields.io/github/stars/atom/teletype?style=social&color=white)](https://github.com/atom/teletype/stargazers)  
     *Pioneering real-time pair programming package using WebSockets and WebRTC datachannels with CRDTs to synchronize buffer state directly between developer machines without transmitting code to cloud servers.*  
     `Language: JavaScript` • `License: MIT`
 
-11. **[atom-pair](https://github.com/pusher/atom-pair)** [![GitHub stars](https://img.shields.io/github/stars/pusher/atom-pair?style=social&color=white)](https://github.com/pusher/atom-pair/stargazers)  
+11. **[atom-pair](https://github.com/pusher/atom-pair)** [![GitHub_Stars](https://img.shields.io/github/stars/pusher/atom-pair?style=social&color=white)](https://github.com/pusher/atom-pair/stargazers)  
     *Real-time peer-to-peer collaborative coding package utilizing WebSockets for synchronized multi-cursor editing, color-coded participant cursors, and remote code pairing.*  
     `Language: CoffeeScript / JavaScript` • `License: MIT`
 
-12. **[Leaps](https://github.com/Jeffail/leaps)** [![GitHub stars](https://img.shields.io/github/stars/Jeffail/leaps?style=social&color=white)](https://github.com/Jeffail/leaps/stargazers)  
+12. **[Leaps](https://github.com/Jeffail/leaps)** [![GitHub_Stars](https://img.shields.io/github/stars/Jeffail/leaps?style=social&color=white)](https://github.com/Jeffail/leaps/stargazers)  
     *A collaborative web-based pair programming service written in Go utilizing operational transformation (OT) algorithms for zero-latency concurrent code editing across distributed developers.*  
     `Language: Go` • `License: MIT`
 
-13. **[Hopp](https://github.com/gethopp/hopp)** [![GitHub stars](https://img.shields.io/github/stars/gethopp/hopp?style=social&color=white)](https://github.com/gethopp/hopp/stargazers)  
+13. **[Hopp](https://github.com/gethopp/hopp)** [![GitHub_Stars](https://img.shields.io/github/stars/gethopp/hopp?style=social&color=white)](https://github.com/gethopp/hopp/stargazers)  
     *The modern purpose-built open-source remote pair programming application. Positions itself as a community-driven OSS alternative to Tuple, built with Tauri and Rust, featuring sub-100ms latency, remote mouse/keyboard control, and self-hosted signaling/relay options.*  
     `Language: Rust / TypeScript` • `License: AGPL-3.0`
 
-14. **[Open Collaboration Tools (Eclipse OCT)](https://github.com/eclipse-oct/open-collaboration-tools)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-oct/open-collaboration-tools?style=social&color=white)](https://github.com/eclipse-oct/open-collaboration-tools/stargazers)  
+14. **[Open Collaboration Tools (Eclipse OCT)](https://github.com/eclipse-oct/open-collaboration-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-oct/open-collaboration-tools?style=social&color=white)](https://github.com/eclipse-oct/open-collaboration-tools/stargazers)  
     *Open-source real-time live-sharing solution for Eclipse Theia, VS Code, and browser-based IDEs under the MIT license, enabling workspace sharing, remote follow, shared terminals, and co-debugging.*  
     `Language: TypeScript` • `License: MIT`
 
-15. **[PairSync](https://github.com/subev/pairsync)** [![GitHub stars](https://img.shields.io/github/stars/subev/pairsync?style=social&color=white)](https://github.com/subev/pairsync/stargazers)  
+15. **[PairSync](https://github.com/subev/pairsync)** [![GitHub_Stars](https://img.shields.io/github/stars/subev/pairsync?style=social&color=white)](https://github.com/subev/pairsync/stargazers)  
     *Lightweight developer utility for live-syncing local working files across developer machines during pair programming so participants can contribute code from within their own native IDE setup.*  
     `Language: JavaScript` • `License: MIT`
 
-16. **[PairPad](https://github.com/assishmoncs/pairpad)** [![GitHub stars](https://img.shields.io/github/stars/assishmoncs/pairpad?style=social&color=white)](https://github.com/assishmoncs/pairpad/stargazers)  
+16. **[PairPad](https://github.com/assishmoncs/pairpad)** [![GitHub_Stars](https://img.shields.io/github/stars/assishmoncs/pairpad?style=social&color=white)](https://github.com/assishmoncs/pairpad/stargazers)  
     *Full-stack open-source collaborative coding platform featuring Monaco Editor, CRDT-based concurrent editing, remote cursors, role-based rooms, and online code execution.*  
     `Language: TypeScript / React` • `License: MIT`
 
-17. **[realmeet](https://github.com/PiyushAryan/realmeet)** [![GitHub stars](https://img.shields.io/github/stars/PiyushAryan/realmeet?style=social&color=white)](https://github.com/PiyushAryan/realmeet/stargazers)  
+17. **[realmeet](https://github.com/PiyushAryan/realmeet)** [![GitHub_Stars](https://img.shields.io/github/stars/PiyushAryan/realmeet?style=social&color=white)](https://github.com/PiyushAryan/realmeet/stargazers)  
     *Open-source, real-time collaborative coding platform designed for pair programming, technical interviews, code reviews, and live syntax-highlighted compilation.*  
     `Language: JavaScript / Node.js` • `License: MIT`
 
@@ -188,7 +188,7 @@ Contributions are warmly encouraged! Help us keep this directory accurate and ex
 2. 🌿 Create a new feature branch: `git checkout -b add/new-pairing-tool`.
 3. 📝 Add your tool adhering to the existing formatting guidelines:
    - For SaaS: Include specific starting tier pricing, explicit free tier limits, company valuation/revenue, and maintain descending valuation sort.
-   - For Open-Source: Include the official GitHub star badge (`style=social&color=white`) linking to `/stargazers`, and maintain descending star count sort.
+   - For Open-Source: Include the official GitHub Stars_Badge (`style=social&color=white`) linking to `/stargazers`, and maintain descending star count sort.
 4. 🚀 Push to your branch and submit a **Pull Request**.
 
 ---
